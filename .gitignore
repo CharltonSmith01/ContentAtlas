@@ -1,0 +1,10 @@
+node_modules/
+dist/
+
+# Runtime state: SQLite database + uploaded screenshots. Machine-specific and
+# often large; never commit it.
+data/
+
+# Local editor / tooling state
+.claude/
+.DS_Store
